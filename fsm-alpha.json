@@ -1,0 +1,52 @@
+{
+  "A": {
+    "0": [
+      "B"
+    ],
+    "1": [
+      "C"
+    ],
+    "start": true,
+    "final": false
+  },
+  "B": {
+    "0": [
+      "B"
+    ],
+    "1": [
+      "D"
+    ],
+    "start": false,
+    "final": false
+  },
+  "C": {
+    "0": [
+      "B"
+    ],
+    "1": [
+      "C"
+    ],
+    "start": false,
+    "final": false
+  },
+  "D": {
+    "0": [
+      "B"
+    ],
+    "1": [
+      "E"
+    ],
+    "start": false,
+    "final": false
+  },
+  "E": {
+    "0": [
+      "B"
+    ],
+    "1": [
+      "C"
+    ],
+    "start": false,
+    "final": true
+  }
+}
